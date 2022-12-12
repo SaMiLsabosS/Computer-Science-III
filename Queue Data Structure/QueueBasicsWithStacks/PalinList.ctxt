@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=q\ s
+comment1.target=java.lang.String\ isPalinlist(java.util.Queue,\ java.util.Stack)
+numComments=2

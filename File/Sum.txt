@@ -1,0 +1,11 @@
+Sami 23
+Cesar 72
+Ayaan 69
+Aman 69
+Sherwin 50
+Kwan 12
+Jon 100
+Dhruv 7
+Evan 1000
+Alex 140
+sum of all ages is: 1542

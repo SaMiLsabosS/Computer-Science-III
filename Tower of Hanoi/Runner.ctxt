@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=orig\ extr\ dest\ disks\ towers
+comment1.target=void\ solve(Tower,\ Tower,\ Tower,\ int,\ Tower[])
+comment2.params=towers\ height
+comment2.target=void\ printTowers(Tower[],\ int)
+numComments=3

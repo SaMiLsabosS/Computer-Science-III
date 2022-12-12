@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Apple(int)
+comment1.params=
+comment1.target=int\ getSlices()
+comment2.params=
+comment2.target=java.lang.String\ whatIsTheRoot()
+comment3.params=f
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=f
+comment4.target=int\ compareTo(Root)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CharacterLimit
+comment1.params=
+comment1.target=void\ main()
+comment2.params=line\ sentences\ limit
+comment2.target=boolean\ exceedsCharLimit(java.lang.String,\ java.util.Map,\ int)
+numComments=3

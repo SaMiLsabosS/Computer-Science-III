@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Child
+comment1.params=n\ ag\ ad
+comment1.target=Child(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=c
+comment2.target=int\ compareTo(Child)
+comment3.params=nice\ naughty
+comment3.target=int\ getNiceLevel(java.util.Map,\ java.util.Map)
+numComments=4

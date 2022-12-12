@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cAR
+comment0.target=MagicSquare(int)
+comment1.params=cAR\ n
+comment1.target=MagicSquare(int,\ int[])
+comment2.params=
+comment2.target=java.lang.String\ isItAMagicSquare()
+comment3.params=
+comment3.target=void\ createAMagicSquare()
+comment4.params=
+comment4.target=void\ printMagicSquare()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

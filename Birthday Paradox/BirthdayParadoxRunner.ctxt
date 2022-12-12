@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BirthdayParadoxRunner
+comment1.params=
+comment1.target=void\ main()
+comment2.params=students\ numTrials\ trials
+comment2.target=java.lang.String\ probability(int,\ int,\ boolean)
+numComments=3

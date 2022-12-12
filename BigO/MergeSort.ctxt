@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MergeSort()
+comment1.params=list
+comment1.target=MergeSort(int[])
+comment2.params=
+comment2.target=void\ sortForward()
+comment3.params=
+comment3.target=void\ sortBackward()
+comment4.params=list\ lowIndex\ highIndex
+comment4.target=void\ splitAndMerge(int[],\ int,\ int)
+comment5.params=list\ lowIndex\ midIndex\ highIndex
+comment5.target=void\ merge(int[],\ int,\ int,\ int)
+comment6.params=list\ lowIndex\ highIndex
+comment6.target=void\ splitAndMergeBackwards(int[],\ int,\ int)
+comment7.params=list\ lowIndex\ midIndex\ highIndex
+comment7.target=void\ mergeBackwards(int[],\ int,\ int,\ int)
+numComments=8

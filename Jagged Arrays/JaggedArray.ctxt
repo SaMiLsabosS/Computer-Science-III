@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=JaggedArray
+comment1.params=r\ c
+comment1.target=JaggedArray(int,\ int)
+comment2.params=max
+comment2.target=void\ randomlyChangeRowLengths(int)
+comment3.params=range\ max\ noDuplicates
+comment3.target=void\ addRandomNums(java.util.HashSet,\ int,\ boolean)
+comment4.params=row\ max\ range
+comment4.target=void\ addingNumsToRow(int,\ int,\ java.util.HashSet)
+comment5.params=
+comment5.target=java.lang.String\ printVeryRandomJaggedArray()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

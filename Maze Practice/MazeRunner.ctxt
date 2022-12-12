@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MazeRunner
+comment0.text=\r\n\ Course\:\ Comp.\ Sci.\ III\r\n\ Coder\:\ Sami\ Melhem\r\n\ Date\:\ 9/11/21\r\n\ Purpose\:\ Maze\ Practice\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=fileName
+comment2.target=java.lang.String[][]\ createMaze(java.lang.String)
+comment3.params=original\ pathway\ coordinates\ fileOut
+comment3.target=void\ print(java.lang.String[][],\ java.lang.String[][],\ java.lang.String,\ java.io.PrintWriter)
+numComments=4

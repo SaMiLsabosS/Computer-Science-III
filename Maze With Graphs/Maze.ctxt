@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sM
+comment0.target=Maze(int[][])
+comment1.params=x\ y\ path
+comment1.target=void\ solve(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

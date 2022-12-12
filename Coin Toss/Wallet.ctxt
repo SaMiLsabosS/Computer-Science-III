@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Wallet()
+comment1.params=m
+comment1.target=Wallet(int)
+comment2.params=
+comment2.target=int\ getMoney()
+comment3.params=m
+comment3.target=void\ setMoney(int)
+numComments=4

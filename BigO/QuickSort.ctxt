@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=QuickSort()
+comment1.params=list
+comment1.target=QuickSort(int[])
+comment2.params=
+comment2.target=void\ sortForward()
+comment3.params=
+comment3.target=void\ sortBackward()
+comment4.params=list\ low\ high
+comment4.target=void\ findPivot(int[],\ int,\ int)
+comment5.params=list\ low\ high
+comment5.target=int\ partition(int[],\ int,\ int)
+comment6.params=list\ low\ high
+comment6.target=void\ findPivotBackwards(int[],\ int,\ int)
+comment7.params=list\ low\ high
+comment7.target=int\ partitionBackwards(int[],\ int,\ int)
+numComments=8

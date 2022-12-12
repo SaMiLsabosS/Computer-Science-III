@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StackTestRunner
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s
+comment2.target=java.lang.String\ print(java.util.Stack)
+numComments=3
